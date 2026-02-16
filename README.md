@@ -5,5 +5,5 @@
 - [arbitration](https://github.com/stonehedgelabs/arbitration) Modern sports platform featuring live scores, real-time fan reactions, and premium content 🏈
   - [arbi.gg](https://arbi.gg)
 - [fuel-indexer](https://github.com/FuelLabs/fuel-indexer) A really fast indexing service for the [FuelVM](https://github.com/FuelLabs/fuel-vm) Ξ
-- [fuels-rs](https://github.com/FuelLabs/fuels-rs) Fuel Network Rust SDK
-- [rashad.wiki](https://github.com/ra0x3/rashad-wiki) My personal site
+- [fuels-rs](https://github.com/FuelLabs/fuels-rs) Fuel Network Rust SDK Ξ
+- [rashad.wiki](https://github.com/ra0x3/rashad-wiki) My personal site 👩🏼‍🦼‍➡️
