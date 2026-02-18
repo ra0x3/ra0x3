@@ -1,3 +1,5 @@
+<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybzU3dGtzYjlkdHNyMWs0NzBxaTlqdndhdW9kaDFzNnJzazh1bzE4eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/wMcFYStkhc6mA/200.gif" />         
+
 - [systemg](https://github.com/ra0x3/systemg) A general-purpose program orchestrator written in Rust 🦀
 - [mcpkit-rs](https://github.com/ra0x3/mcpkit-rs) A fork of the [Model Context Protocol Rust SDK](https://github.com/modelcontextprotocol/rust-sdk) with added WebAssembly (WASM) support
   - Like [Wassette](https://github.com/microsoft/wassette), `mcpkit-rs` supports [Wasmtime](https://wasmtime.dev/) runtime. Unlike Wassette `mcpkit-rs` also supports [Wasmedge](https://wasmedge.org/) runtime
