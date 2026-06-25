@@ -9,6 +9,7 @@
   - [arbi.gg](https://arbi.gg)
 - [gamecast](https://github.com/stonehedgelabs/gamecast) The fastest, most reliable, real-time sports data platform, featuring 30 sports across hundreds of leagues ⚽️
   - [gamecastt.com](https://gamecastt.com)
+- [gemx](https://github.com/ra0x3/gemx) Drive the Gemini web UI from Python via Playwright
 - [esper](https://github.com/stonehedgelabs/esperr) A B2B SaaS programmable traffic protection built in Rust.
   - [Learn how Esper can protect your traffic](https://esperr.com/protect)
   - [Read the docs](https://docs.esperr.com)
